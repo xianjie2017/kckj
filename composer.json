@@ -1,0 +1,15 @@
+{
+    "name": "xianj2020/kckj",
+    "authors": [
+        {
+            "name": "xianj2017",
+            "email": "42540403@qq.com"
+        }
+    ],
+    "require": {},
+	"autoload": {
+        "psr-4": {
+            "User\\Client\\": "src/User/Client"
+        }
+    }
+}
